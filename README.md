@@ -45,7 +45,7 @@ The codebase is modular and easy to extend, making it suitable for further devel
 ## Installation
 Clone the repository and install dependencies:
 ```bash
-git clone <https://github.com/ROSHNIFATIMA/OIBSIP_BMICALCULATOR.git>
+git clone https://github.com/ROSHNIFATIMA/OIBSIP_BMICALCULATOR.git
 cd OIBSIP_BMICALCALCULATOR
 pip install -r requirements.txt
 ```
