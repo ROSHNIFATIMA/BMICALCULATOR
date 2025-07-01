@@ -4,15 +4,12 @@ A robust, modern BMI (Body Mass Index) Calculator application built with Python,
 
 ---
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+## 📸 Screenshot
+
+![App Screenshot1](bmicalculator1.png)
+
+![App Screenshot2](bmicalculator2.png)
+
 
 ---
 
