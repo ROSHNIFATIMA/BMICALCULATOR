@@ -45,8 +45,8 @@ The codebase is modular and easy to extend, making it suitable for further devel
 ## Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/ROSHNIFATIMA/OIBSIP_BMICALCULATOR.git
-cd OIBSIP_BMICALCALCULATOR
+git clone https://github.com/ROSHNIFATIMA/BMICALCULATOR.git
+cd BMICALCALCULATOR
 pip install -r requirements.txt
 ```
 
@@ -89,5 +89,5 @@ Contributions are welcome! To add features or fix bugs:
 
 
 
-© BMI Calculator - Developed as part of an internship program 
+ BMI Calculator - developed by roshni
 
